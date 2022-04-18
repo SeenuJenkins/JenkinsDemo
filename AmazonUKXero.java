@@ -25,7 +25,7 @@ public class AmazonUKXero extends PTAutomationBase {
 	public void clearInitialize() {
 		clearData();
 	}
-/*
+
 	@Test
 	public void TC_001() {
 		executeTestCase("uk", "tc_001");
